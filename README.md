@@ -7,10 +7,10 @@
 
 
 ### 1 ERA5 Data Downloading
-please see the markdown file ['ERA5downloading.md'](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/ERA5downloading.md)
+please see the markdown file [ERA5downloading.md](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/ERA5downloading.md)
 
 ### 2 CMIP6 Data Downloading
-please see the markdown file 'CMIP6downloading.md'
+please see the markdown file [CMIP6downloading.md](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/CMIP6downloading.md)
 
 ERA5 code
 please see the markdown file 'readNCplot.ipynb'
