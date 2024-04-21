@@ -15,4 +15,4 @@ please see the markdown file [ERA5downloading.md](https://github.com/Sugirlstar/
 please see the markdown file [CMIP6downloading.md](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/CMIP6downloading.md)
 
 ### ERA5 Data preprocessing and figure generating
-please see the code file 'readNCplot.ipynb'
+please see the code file [readNCplot.ipynb](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/readNCplot.ipynb)
