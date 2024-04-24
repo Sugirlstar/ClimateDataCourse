@@ -1,4 +1,4 @@
-## This is a repository storing information, resources and instructions for the Course 2024/04/22.
+## This is a repository storing information, resources and instructions for the Course Geographic data analysis on 2024/04/22.
 
 ### 0 Resources
 * [1] ERA5 monthly averaged data on single levels from 1940 to present: https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels-monthly-means?tab=overview
