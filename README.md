@@ -5,6 +5,7 @@
 * [2] ERA5 data documentation: https://confluence.ecmwf.int/display/CKB/ERA5%3A+data+documentation
 * [3] CMIP6 data download website: https://aims2.llnl.gov/search
 * [4] IPCC Atlas: https://interactive-atlas.ipcc.ch/
+* [5] spacious correlation examples: https://tylervigen.com/spurious-correlations
 
 ### 1 ERA5 Data Downloading
 please see the markdown file [ERA5downloading.md](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/ERA5downloading.md)
@@ -14,3 +15,6 @@ please see the markdown file [CMIP6downloading.md](https://github.com/Sugirlstar
 
 ### 3 ERA5 Data preprocessing and figure generating
 please see the code file [readNCplot.ipynb](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/readNCplot.ipynb)
+
+### 4 Attribution analysis
+please see the code file [attributionAnalysis.ipynb]
