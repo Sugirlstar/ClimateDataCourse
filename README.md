@@ -19,9 +19,9 @@ please see the code file [readNCplot.ipynb](https://github.com/Sugirlstar/Climat
 ### 4 Attribution analysis
 
 please download 4 nc files within this repository:
-  [AA_cloudcover.nc](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/AA_cloudcover.nc)
-  [AA_precipitation.nc](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/AA_precipitation.nc)
-  [AA_solarradiation.nc](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/AA_solarradiation.nc)
-  [AA_temperature.nc](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/AA_temperature.nc)
+  - AA_cloudcover.nc
+  - AA_precipitation.nc
+  - AA_solarradiation.nc
+  - AA_temperature.nc
   
 and see the code file [attributionAnalysis.ipynb](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/attributionAnalysis.ipynb)
