@@ -17,4 +17,11 @@ please see the markdown file [CMIP6downloading.md](https://github.com/Sugirlstar
 please see the code file [readNCplot.ipynb](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/readNCplot.ipynb)
 
 ### 4 Attribution analysis
-please see the code file [attributionAnalysis.ipynb]
+
+please download 4 nc files within this repository:
+  [AA_cloudcover.nc](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/AA_cloudcover.nc)
+  [AA_precipitation.nc](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/AA_precipitation.nc)
+  [AA_solarradiation.nc](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/AA_solarradiation.nc)
+  [AA_temperature.nc](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/AA_temperature.nc)
+  
+and see the code file [attributionAnalysis.ipynb](https://github.com/Sugirlstar/ClimateDataCourse/blob/main/attributionAnalysis.ipynb)
